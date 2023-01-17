@@ -1,7 +1,11 @@
 # bloc_chatgpt
 
 A new Flutter project  that  using Bloc  with ChatGPT .
-link : https://clipchamp.com/watch/b9GqVYcZ4UI
+link : https://clipchamp.com/watch/b9GqVYcZ4UI.
+
+#output[README.md](https://github.com/mahmoudhs1998/Flutter_Bloc_ChatGPt/files/10436798/README.md)
+![Screenshot 2023-01-17 175043](https://user-images.githubusercontent.com/108278575/212946106-21a991c9-5262-46d2-ad0a-1eed165d7374.png)
+
 
 ## Getting Started
 
